@@ -1,4 +1,4 @@
-# TFG: Machine Learning-Based Classification of Hospital Discharge Diagnoses Using SNOMED-CT Encoded Health Problems and Clinical Data
+# Machine Learning-Based Classification of Hospital Discharge Diagnoses Using SNOMED-CT Encoded Health Problems and Clinical Data
 
 **Author: Cindy Chen**  
 
