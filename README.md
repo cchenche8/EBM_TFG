@@ -1,10 +1,10 @@
-# TFG: Title
+# TFG: Machine Learning-Based Classification of Hospital Discharge Diagnoses Using SNOMED-CT Encoded Health Problems and Clinical Data
 
 **Author: Cindy Chen**  
 
 **Director/s: Santiago Frid, Juan Barrios**   
 
-**Barcelona, 11 June 2025**  
+**Barcelona, 11th of June 2025**  
 
 ---
 
