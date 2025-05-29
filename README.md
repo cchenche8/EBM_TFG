@@ -1,4 +1,4 @@
-# Machine Learning-Based Classification of Hospital Discharge Diagnoses Using SNOMED-CT Encoded Health Problems and Clinical Data
+# Use of Machine Learning and SNOMED CT encoded Health Problems to Predict Hospital Discharge Diagnoses
 
 **Author: Cindy Chen**  
 
