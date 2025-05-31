@@ -1,4 +1,4 @@
-# Use of Machine Learning and SNOMED CT encoded Health Problems to Predict Hospital Discharge Diagnoses
+# Use of Machine Learning and SNOMED CT Encoded Health Problems to Predict Hospital Discharge Diagnoses
 
 **Author: Cindy Chen**  
 
