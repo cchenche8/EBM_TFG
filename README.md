@@ -4,7 +4,7 @@
 
 **Director/s: Santiago Frid, Juan Barrios**   
 
-**Barcelona, 11th of June 2025**  
+**Barcelona, 11th June 2025**  
 
 ---
 
